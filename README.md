@@ -1,4 +1,4 @@
-Maxtrix rein for linux
+Maxtrix rain for linux
 
 ```
     U  v      D  r    *  )    l    \    ~  `  z  _    $    9    V  7  ;    T   
