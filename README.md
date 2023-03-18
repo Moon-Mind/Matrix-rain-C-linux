@@ -1,8 +1,6 @@
 Maxtrix rein for linux
 
 ```
-
-
     U  v      D  r    *  )    l    \    ~  `  z  _    $    9    V  7  ;    T   
      ]    -    v    n  F    ?    9          G  -    P      #      q    @                    a  >  z    >    w    ]  `        u  6    w  \    i  t    X    g    *  1    <  8      3  Z    F    0  ?   
  z  i    =  W      W  :    S    5  I  #          {    #    r    R  <  c      -      /  #  F      |  Q    j  #    4      <    V  S  k          l    R          S            1  o    {  q    J  2    "   
